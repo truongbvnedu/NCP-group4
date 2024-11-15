@@ -13,7 +13,8 @@
 <?php
 
 <?php
-    $a = 1;
-    $b = 2;
-    echo "a + b"
+    function login(){
+        $username = $_POST['username'];
+    }
 ?>
+
